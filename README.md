@@ -1,4 +1,4 @@
-gotour
+Go tour
 ======
 
-Go Introduction
+Introduction tutorial to go: [Go Tour](http://tour.golang.org/)
